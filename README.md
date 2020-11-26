@@ -1,2 +1,2 @@
 # hello-word
-Just another repository
+Hi! Im Egor.I study at college "busness and law".
